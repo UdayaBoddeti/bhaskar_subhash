@@ -5,7 +5,7 @@
 
 void main()
 {
-	char test_values[10][10] = {"0", "123", "17", "190", "145", "10Ab", "ab10", "ab"};
+	char test_values[8][8] = {"0", "123", "17", "190", "145", "10Ab", "ab10", "ab"};
 	int count = 8, counter;
 
 	for (counter = 0;counter < count;counter++)
