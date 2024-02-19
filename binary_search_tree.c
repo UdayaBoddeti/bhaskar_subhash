@@ -3,9 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// #include <time.h>
-// #include <windows.h>
-// #include <psapi.h>
 
 #define NAME_LENGTH 30
 #define ID_LENGTH 20
