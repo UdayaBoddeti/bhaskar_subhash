@@ -11,7 +11,7 @@ void main()
 
 	for (counter = 0;counter < count;counter++)
 	{
-		if (is_prime(test__values[counter]) != result[counter])
+		if (is_prime(test_values[counter]) != result[counter])
 		{
 			printf("%s: Failed.\n", test_values[counter]);
 		}
